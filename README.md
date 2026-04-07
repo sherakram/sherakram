@@ -14,19 +14,20 @@
 <img src="https://img.shields.io/badge/-Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/-Liquid-E44D26?style=for-the-badge&logo=liquid&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/-Make.com-purple?style=for-the-badge" />&nbsp;
+
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;
+
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />&nbsp;
+
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />&nbsp;
+
 <img src="https://img.shields.io/badge/-Facebook%20Ads-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/-SEO-3E8E41?style=for-the-badge" />&nbsp;
-<img src="https://img.shields.io/badge/-E--commerce-blue?style=for-the-badge" />&nbsp;
-<img src="https://img.shields.io/badge/-Dropshipping-orange?style=for-the-badge" />&nbsp;
-<img src="https://img.shields.io/badge/-White%20Label-teal?style=for-the-badge" />&nbsp;
-<img src="https://img.shields.io/badge/-Private%20Label-brown?style=for-the-badge" />
 
 </div>
 
