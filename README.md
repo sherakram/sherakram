@@ -1,6 +1,3 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MBA-17&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-</p>
 <h1 align="left">Hi 👋, I'm Sheraz Akram</h1>
 <h3 align="lft">Front-End Shopify & AI Automation Developer | Freelancer | E-commerce Specialist</h3>
 
@@ -23,6 +20,7 @@
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/-Facebook%20Ads-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/-SEO-3E8E41?style=for-the-badge" />&nbsp;
 <img src="https://img.shields.io/badge/-E--commerce-blue?style=for-the-badge" />&nbsp;
@@ -34,64 +32,65 @@
 
 ---
 
-## 💡 Skills & Expertise
+## 🧠 Core Competencies
 
-### 💻 Front-End & Shopify Development
-- HTML5 / CSS3 / JavaScript
+### Front-End Development:
+- HTML5, CSS3, JavaScript, Liquid, JSON
 - Shopify Liquid Programming
-- Theme Development from Scratch
-- Website Accessibility (WCAG Guidelines)
 
-### 🤖 AI & Automation
-- AI Workflow Automation (Make.com, Shopify Flow)
-- Prototyping with AI Tools
-- Email and Order Process Automation
+### Platforms:
+- Shopify, WordPress (Elementor), WooCommerce
 
-### 📈 E-commerce & Marketing
-- Shopify Store Setup (E-commerce / Dropshipping / White Label / Private Label)
-- Facebook Ads Campaign Setup & Testing
-- On-Page SEO Optimization (Meta, Headings, Speed)
+### Accessibility:
+- WCAG 2.2 AA, ARIA, WAVE, PowerMapper, VoiceOver
 
----
+### Marketing & Growth:
+- Meta Ads, CRO, On-Page SEO
 
-## 💼 Work Experience
+### Automation & AI:
+- AI Workflow Automation, Shopify Flow, Make.com
 
-**🛍️ Shopify Developer – EcomBack Official**  
-`MAR 2025 – Present`  
-- Developed and optimized custom Shopify themes using Liquid  
-- Automated order processing and customer emails using Make.com and Shopify Flow  
-- Set up WCAG-compliant Shopify stores with accessibility in mind  
-- Handled full setup of white-label and dropshipping stores for clients  
-
-**🎯 WordPress Developer – Rankviz**  
-`JUN 2023 – MAR 2024`  
-- Developed and customized WordPress websites using Elementor, enhancing user experience and ensuring responsive design  
-- Managed WooCommerce stores, including setting up products, configuring payment gateways, and optimizing checkout processes
-
-**🎯 Social Media Marketing – Expedyte**  
-`DEC 2022 – MAR 2024`  
-- Launched and optimized ad campaigns for e-commerce clients  
-- Targeted niche audiences with A/B testing for better ROI  
-- Integrated Pixel tracking with Shopify stores  
+### Tools:
+- Shopify CLI, Git, GitHub, VS Code, Cloudflare, Trello
 
 ---
 
-## 📂 Highlight Projects
+## 💼 Professional Experience
 
-| Project | Description |
-|--------|-------------|
-| 🛍️ [Rest Nest - Furniture Affialate Business](#) | Ran Rest Nest’s social media & ad campaigns (USA) |
-| 🌐 [Starlink Devices - Shopify Store (PK)](#) | Conversion-focused custom product page |
-| 🤖 [AI Automated Shopify Workflow (Make.com)](#) | Automated abandoned cart emails & inventory sync |
-| 🎨 [WCAG-Compliant Shopify Theme](#) | Built with accessibility standards (AA) in mind |
+**🛍️ Shopify Store Manager — Nurel.pk**  
+`SEP 2025 – Present`  
+- Lead end-to-end Shopify store development and customization  
+- Improved conversion rates through CRO audits (UX, speed, checkout flow)  
+- Managed SEO-optimized product listings for organic growth  
+- Handled hosting, DNS, and Cloudflare optimization  
+
+**🎯 Shopify Developer — EcomBack Official**  
+`Oct 2024 – Jul 2025`  
+- Built and customized Shopify themes aligned with brand goals  
+- Optimized performance, SEO, and mobile responsiveness
+- Delivered WCAG-compliant storefronts  
+- Managed client communication and post-launch support
+
+**♿ Accessibility Developer — EcomBack Official**  
+`Oct 2024 – Jul 2025`  
+- Conducted WCAG 2.2 AA audits across Shopify stores  
+- Fixed keyboard navigation, ARIA roles, and semantic structure  
+- Performed screen reader testing (VoiceOver)
+- Improved accessibility compliance using WAVE & PowerMapper
+
+**WordPress Developer — Rankviz**  
+`Jun 2023 – Mar 2024`  
+- Developed responsive websites using Elementor  
+- Managed WooCommerce stores and checkout flows  
+- Implemented on-page SEO strategies
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MBA-17&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBA-17&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MBA-17&show_icons=true&theme=radical&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBA-17&layout=compact&theme=radical&cache_seconds=86400" />
 </p>
 
 ---
