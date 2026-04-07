@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Sheraz Akram</h1>
-<h3 align="lft">Front-End Shopify & AI Automation Developer | Freelancer | E-commerce Specialist</h3>
+<h3 align="lft">Shopify Front-End Developer | E-commerce Specialist | AI Automation</h3>
 
 ---
 
