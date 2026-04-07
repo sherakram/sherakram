@@ -111,10 +111,11 @@
 
 ---
 
-## 📫 Let's Connect
+## 🌐 Let's Connect
 
-- 🌐 LinkedIn: [Sheraz Akram](https://www.linkedin.com/in/sherazakram17)
-- 📧 Email: sherazrajput68@gmail.com
+- LinkedIn: [Sheraz Akram](https://www.linkedin.com/in/sherazakram17)
+- Email: sherazrajput68@gmail.com
+- WhatsApp: [@Sheraz](+923124548560)
 
 ---
 
