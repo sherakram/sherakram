@@ -113,9 +113,8 @@
 
 ## 📫 Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/sherazakram17)
-- 📧 Email: sherazrajput68@gmail.com 
-- 💼 Open to Work **Shopify projects, AI automation consulting, and web development**
+- 🌐 LinkedIn: [Sheraz Akram](https://www.linkedin.com/in/sherazakram17)
+- 📧 Email: sherazrajput68@gmail.com
 
 ---
 
