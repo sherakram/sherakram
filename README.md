@@ -1,17 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,21,24,30&height=200&section=header&text=Sher%20Khan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Architect&descAlignY=60&descSize=18&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,21,24,30&height=200&section=header&text=Sheraz%20Akram&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Shopify%20Front-End%20Developer%20%7C%20E-Commerce%20Manager%20%7C%20Accessibility%20Specialist&descAlignY=60&descSize=16&animation=fadeIn" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+intelligent+systems+at+scale.;Architecting+the+future+of+AI-native+software.;Turning+complexity+into+elegant+engineering." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+high-performance+Shopify+storefronts.;Accessibility-first+Liquid+%26+Online+Store+2.0+development.;Turning+client+requirements+into+conversion-ready+stores." alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Sc.%20Computer%20Science-University%20of%20Engineering%20%26%20Technology-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/M.Sc.%20AI%20%26%20Data%20Science-In%20Progress-6D28D9?style=flat-square&logo=brain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intermediate%20%E2%80%94%20Computer%20Science-Govt.%20Associate%20Degree%20College-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white" />
 </p>
 
 <p align="center">
@@ -21,52 +19,50 @@
 </p>
 
 <p align="center">
-  <a href="https://sherkhan.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-sherkhan.dev-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://sherakram.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-sherakram.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/sherkhan" target="_blank">
+  <a href="https://linkedin.com/in/sherazakram" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:sher@sherkhan.dev">
+  <a href="mailto:sherazrajput68@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/sherkhan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-@sherkhan-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/sherakram" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@sherakram-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sherkhan&style=flat-square&color=7C3AED&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=sherakram&style=flat-square&color=7C3AED&label=Profile+Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/sherkhan?style=flat-square&color=6D28D9&label=Followers&logo=github" />
+  <img src="https://img.shields.io/github/followers/sherakram?style=flat-square&color=6D28D9&label=Followers&logo=github" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/sherkhan?style=flat-square&color=A855F7&label=Stars&logo=github" />
+  <img src="https://img.shields.io/github/stars/sherakram?style=flat-square&color=A855F7&label=Stars&logo=github" />
 </p>
 
 ---
 
 ## ◈ About
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherkhan&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=C4B5FD&langs_count=6" width="260" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherakram&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=C4B5FD&langs_count=6" width="260" />
 
-I am a Senior Software Engineer with **7+ years** of experience designing and delivering high-throughput distributed systems, AI-augmented products, and full-stack web platforms used by millions of users globally.
+I am a Shopify Developer and Store Manager with **1.5+ years** of experience building, customizing, and independently managing **25+ client storefronts** end-to-end — from custom Liquid theme development to client communication and post-launch support.
 
-My engineering philosophy is rooted in clarity of architecture, rigor of systems design, and velocity of delivery. I work at the intersection of **AI/ML engineering**, **cloud-native backend systems**, and **modern frontend development** — building products that are not only technically excellent but commercially impactful.
+My core specialization sits at the intersection of **Online Store 2.0 theme architecture**, **WCAG 2.2 AA accessibility remediation**, and **on-page SEO** — a combination that most front-end developers in the Shopify ecosystem overlook entirely. I have personally corrected **50+ semantic markup errors** across **10+ international storefronts**, reducing client support inquiries by **20%**, and conducted full accessibility audits for global brands serving hundreds of thousands of customers.
 
-I have led cross-functional engineering teams, defined technical roadmaps for Series A through Series C startups, and contributed production-grade AI pipelines integrating LLMs, RAG architectures, vector databases, and real-time inference systems.
-
-I hold deep expertise in **Python**, **TypeScript**, **Go**, and **Rust**, with a strong command of the AWS ecosystem, Kubernetes orchestration, and MLOps workflows.
+I work end-to-end: translating client requirements into brand-aligned, high-performance storefronts; configuring DNS, hosting, and Cloudflare for secure delivery; and integrating AI-assisted workflows into my development process to speed up debugging and QA.
 
 <br/>
 
 **Currently Open To:**
-- Senior / Staff / Principal Engineer roles at product-led companies
-- AI Infrastructure & Platform Engineering positions
-- Technical co-founder engagements at pre-seed / seed stage
-- Open-source collaborations in AI tooling & developer infrastructure
+- Shopify Front-End Developer / Theme Developer roles (remote or onsite)
+- Shopify Accessibility (WCAG 2.2 AA) Audit & Remediation engagements
+- E-Commerce Store Management & Technical Ownership positions
+- Freelance Liquid theme customization and Online Store 2.0 section development
 
 ---
 
@@ -75,47 +71,57 @@ I hold deep expertise in **Python**, **TypeScript**, **Go**, and **Rust**, with 
 <p align="center"><strong>Languages</strong></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,go,rust,cpp,java,bash&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,json,liquid,bash&theme=dark&perline=6" />
   </a>
 </p>
 
-<p align="center"><strong>Frontend</strong></p>
+<p align="center"><strong>Shopify & Front-End</strong></p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,figma,html,css&theme=dark&perline=8" />
-  </a>
+  <img src="https://img.shields.io/badge/Shopify%20Liquid-7C3AED?style=flat-square&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Online%20Store%202.0-6D28D9?style=flat-square&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sections%20%26%20Blocks-A855F7?style=flat-square&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metafields-7C3AED?style=flat-square&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shopify%20CLI-6D28D9?style=flat-square&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/App%20Integrations-A855F7?style=flat-square&logo=shopify&logoColor=white" />
 </p>
 
-<p align="center"><strong>Backend & Databases</strong></p>
+<p align="center"><strong>Accessibility & QA</strong></p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,nodejs,graphql,postgres,mongodb,redis,elasticsearch,kafka&theme=dark&perline=8" />
-  </a>
+  <img src="https://img.shields.io/badge/WCAG%202.2%20AA-7C3AED?style=flat-square&logo=accessibility&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARIA-6D28D9?style=flat-square&logo=w3c&logoColor=white" />
+  <img src="https://img.shields.io/badge/WAVE-A855F7?style=flat-square&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerMapper-7C3AED?style=flat-square&logo=testinglibrary&logoColor=white" />
+  <img src="https://img.shields.io/badge/VoiceOver-6D28D9?style=flat-square&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lighthouse-A855F7?style=flat-square&logo=lighthouse&logoColor=white" />
 </p>
 
-<p align="center"><strong>Cloud, DevOps & Tooling</strong></p>
+<p align="center"><strong>Marketing, SEO & Tools</strong></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,github,githubactions,prometheus&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,cloudflare&theme=dark&perline=8" />
   </a>
+  <img src="https://img.shields.io/badge/On--Page%20SEO-7C3AED?style=flat-square&logo=googlesearchconsole&logoColor=white" />
+  <img src="https://img.shields.io/badge/CRO-6D28D9?style=flat-square&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Meta%20Ads-A855F7?style=flat-square&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-7C3AED?style=flat-square&logo=trello&logoColor=white" />
 </p>
 
 ---
 
-## ◈ AI / ML Expertise
+## ◈ Accessibility & E-Commerce Expertise
 
 <div align="center">
 
 | Domain | Proficiency | Details |
 |--------|-------------|---------|
-| **Large Language Models** | ████████████ Expert | GPT-4, Claude 3, Mistral, LLaMA 3, Gemini — fine-tuning, RLHF, prompt engineering |
-| **RAG & Vector Systems** | ████████████ Expert | LangChain, LlamaIndex, Pinecone, Weaviate, pgvector — production RAG pipelines |
-| **MLOps & Inference** | ███████████░ Advanced | MLflow, Weights & Biases, TorchServe, Triton Inference Server, SageMaker |
-| **Deep Learning** | ███████████░ Advanced | PyTorch, Transformers, PEFT/LoRA, diffusion models, multimodal architectures |
-| **Computer Vision** | █████████░░░ Proficient | OpenCV, YOLO, Segment Anything Model, image classification & object detection |
-| **NLP & Text Analytics** | ████████████ Expert | Named entity recognition, semantic similarity, embeddings, sentiment, summarization |
-| **AI Product Engineering** | ████████████ Expert | AI-native SaaS, copilot systems, agentic workflows, tool-calling pipelines |
-| **Data Engineering** | ███████████░ Advanced | Apache Spark, dbt, Airflow, Snowflake, feature stores, data lakehouse patterns |
+| **Shopify Liquid Development** | ████████████ Expert | Custom sections, blocks, JSON templates, theme architecture beyond template customization |
+| **Online Store 2.0 Architecture** | ███████████░ Advanced | Sections everywhere, app blocks, merchant-facing customizer settings |
+| **WCAG 2.2 AA Auditing** | ████████████ Expert | Keyboard operability, ARIA semantics, screen reader flow, color contrast, focus management |
+| **Screen Reader Testing** | ███████████░ Advanced | macOS VoiceOver flows, semantic markup correction, landmark structure |
+| **On-Page SEO** | ███████████░ Advanced | Meta titles/descriptions, schema markup, heading structure, alt text at scale |
+| **Client & Store Management** | ████████████ Expert | End-to-end ownership of 25+ stores — onboarding, dev, SEO, post-launch support |
+| **AI-Assisted Development** | █████████░░░ Proficient | Prompt engineering for debugging, QA acceleration, workflow automation |
+| **DNS, Hosting & Cloudflare** | ██████████░░ Proficient | Domain configuration, secure delivery, performance setup for client stores |
 
 </div>
 
@@ -124,109 +130,143 @@ I hold deep expertise in **Python**, **TypeScript**, **Go**, and **Rust**, with 
 ## ◈ Featured Projects
 
 <details>
-<summary><strong>◉ NeuralDesk — AI-Native Customer Intelligence Platform</strong></summary>
+<summary><strong>◉ Custom Theme Section Development — Portfolio Project</strong></summary>
 
 <br/>
 
-NeuralDesk is an enterprise SaaS platform that transforms unstructured customer interactions — support tickets, call transcripts, chat logs, and NPS responses — into structured intelligence using a multi-stage LLM pipeline. The system performs real-time semantic routing, intent classification, sentiment trend analysis, and automated resolution drafting, reducing mean time to resolution by over 60%.
+A production-grade demonstration of Online Store 2.0 section development that goes beyond template customization. The centerpiece is a fully accessible slideshow banner built with native WAI-ARIA roles, full keyboard navigation support, per-device art-direction (independent desktop and mobile image sets), and merchant-facing customizer settings — giving store owners granular control without touching code.
 
-The platform was deployed at two Series B fintech companies serving a combined user base exceeding 4 million customers, processing upwards of 200,000 support interactions per month with sub-500ms median inference latency.
+This project was built to showcase real section-and-block architecture: reusable, schema-driven, and accessible by default rather than retrofitted.
 
 <div align="center">
 
 | Attribute | Detail |
 |-----------|--------|
-| **Stack** | Python · FastAPI · LangChain · GPT-4 · Pinecone · PostgreSQL · React · Redis · AWS ECS |
-| **Scale** | 200K+ interactions/month · 4M+ end users · 99.97% uptime SLA |
-| **Performance** | P95 inference latency < 480ms · throughput 1,200 req/s under peak load |
-| **Security** | SOC 2 Type II compliant · end-to-end encryption · PII redaction pipeline |
-| **Impact** | 62% reduction in MTTR · 38% deflection of L1 support tickets · $1.4M annual savings |
-| **Repository** | [github.com/sherkhan/neuraldesk](https://github.com/sherkhan/neuraldesk) |
+| **Stack** | Shopify Liquid · JSON Templates · HTML5 · CSS3 · Vanilla JavaScript · WAI-ARIA |
+| **Scale** | Reusable section architecture across unlimited theme instances |
+| **Performance** | Lazy-loaded responsive images · zero layout shift on slide transitions |
+| **Accessibility** | Full keyboard navigation · ARIA live regions · focus-visible states |
+| **Impact** | Demonstrates merchant-facing customization without developer dependency |
+| **Repository** | [github.com/sherakram](https://github.com/sherakram) |
 
 </div>
 
-**Engineering Highlights:** Designed a hierarchical retrieval architecture combining sparse BM25 retrieval with dense vector search, achieving a 41% improvement in answer relevance over baseline RAG. Implemented a custom re-ranking layer using a cross-encoder model fine-tuned on domain-specific ticket data. Built an autoscaling inference cluster on AWS ECS with Circuit Breaker patterns for zero-downtime model swaps.
+**Engineering Highlights:** Implemented art-directed `<picture>` sourcing so desktop and mobile banners can use entirely different crops, not just scaled versions. Built keyboard-accessible slide controls with `aria-live="polite"` announcements for screen reader users transitioning between slides. Exposed every visual and behavioral setting through the theme customizer schema, enabling non-technical merchants to fully reconfigure the section.
 
 <br/>
 </details>
 
 <details>
-<summary><strong>◉ Vektor — Real-Time Financial Market Intelligence Engine</strong></summary>
+<summary><strong>◉ Earth Harbor — WCAG 2.2 AA Audit & Remediation</strong></summary>
 
 <br/>
 
-Vektor is a high-frequency financial data processing engine that ingests, normalizes, and enriches market feeds from 14 global exchanges in real time, delivering structured signals to algorithmic trading systems and risk management dashboards. The platform processes over 3 billion tick events per day with microsecond-level timestamp precision.
-
-The system underpins a quantitative hedge fund's entire data infrastructure stack, replacing a legacy vendor solution at one-third the operational cost while delivering a 10x improvement in data freshness and completeness.
+Full accessibility audit and remediation for an organic, US-based skincare Shopify store. Addressed keyboard navigation gaps, incorrect ARIA semantics, broken screen reader flows, and insufficient color contrast across the entire storefront.
 
 <div align="center">
 
 | Attribute | Detail |
 |-----------|--------|
-| **Stack** | Go · Rust · Apache Kafka · TimescaleDB · Redis Streams · gRPC · Kubernetes · Terraform |
-| **Scale** | 3B+ tick events/day · 14 exchange feeds · 40TB monthly data volume |
-| **Performance** | Sub-2ms end-to-end pipeline latency · 99.999% message delivery guarantee |
-| **Security** | mTLS across all service communication · encrypted data at rest · audit log immutability |
-| **Impact** | 66% reduction in data infrastructure cost · 10x improvement in data freshness |
-| **Repository** | [github.com/sherkhan/vektor](https://github.com/sherkhan/vektor) |
+| **Stack** | Shopify Liquid · WAVE · PowerMapper · macOS VoiceOver |
+| **Scale** | Full storefront audit — collection, product, and checkout-adjacent pages |
+| **Performance** | No regression to page load times during remediation |
+| **Accessibility** | Keyboard navigation, ARIA semantics, screen reader flow, color contrast — WCAG 2.2 AA |
+| **Impact** | Brought storefront into AA compliance, reducing legal and UX risk |
+| **Repository** | [earthharbor.com](https://earthharbor.com) |
 
 </div>
-
-**Engineering Highlights:** Authored a custom Kafka consumer group coordinator in Go with adaptive backpressure and dead-letter queue semantics. Implemented a Rust-based tick normalizer achieving 1.2M events/second throughput on a single commodity node. Designed a multi-region active-active replication topology with conflict-free merge semantics using CRDTs.
 
 <br/>
 </details>
 
 <details>
-<summary><strong>◉ Stratum — Developer-First API Gateway & Observability Platform</strong></summary>
+<summary><strong>◉ Murphy Door® — WCAG 2.2 AA Accessibility Audit</strong></summary>
 
 <br/>
 
-Stratum is an open-source, developer-first API gateway built for modern microservices teams. It provides dynamic traffic management, request/response transformation, policy enforcement, distributed tracing, and a real-time observability dashboard — all configured through a declarative YAML DSL and a React-based control plane UI.
-
-Adopted by 140+ engineering teams across 28 countries with over 3,200 GitHub stars and active community contributions from engineers at Netflix, Shopify, and Stripe.
+Accessibility audit for a US-based Shopify store specializing in hidden and bookcase doors. Remediated keyboard navigation, screen reader compatibility, and color contrast issues using industry-standard auditing tools.
 
 <div align="center">
 
 | Attribute | Detail |
 |-----------|--------|
-| **Stack** | Go · TypeScript · React · PostgreSQL · Prometheus · Grafana · OpenTelemetry · Helm |
-| **Scale** | 140+ production deployments · 3,200+ GitHub stars · 28 countries |
-| **Performance** | < 1ms gateway overhead · 50K req/s sustained throughput per replica |
-| **Security** | OWASP-compliant · JWT / OAuth 2.0 / API key auth · rate limiting & DDoS protection |
-| **Impact** | 45% reduction in API incident MTTR for adopters · 30% reduction in ops toil |
-| **Repository** | [github.com/sherkhan/stratum](https://github.com/sherkhan/stratum) |
+| **Stack** | Shopify Liquid · WAVE · PowerMapper · macOS VoiceOver |
+| **Scale** | Site-wide audit across product catalog and informational pages |
+| **Performance** | Remediation delivered without disrupting existing theme performance |
+| **Accessibility** | Keyboard operability, screen reader compatibility, color contrast — WCAG 2.2 AA |
+| **Impact** | Eliminated navigation barriers for assistive technology users |
+| **Repository** | [murphydoor.com](https://murphydoor.com) |
 
 </div>
-
-**Engineering Highlights:** Implemented a plugin SDK in Go enabling zero-downtime plugin hot-reloading via WebAssembly sandboxing. Designed a distributed rate-limiting algorithm using Redis sliding window counters with atomic Lua scripting. Built a real-time request tracing UI on top of OpenTelemetry collector APIs with streaming WebSocket delivery.
 
 <br/>
 </details>
 
 <details>
-<summary><strong>◉ Palimpsest — Multi-Modal Document Intelligence API</strong></summary>
+<summary><strong>◉ Sculpd — WCAG 2.2 AA Accessibility Audit</strong></summary>
 
 <br/>
 
-Palimpsest is a document intelligence API that extracts, classifies, and indexes structured information from heterogeneous document corpora — PDFs, scanned images, Word files, spreadsheets, and HTML pages — using a combination of OCR, layout-aware document transformers, and LLM-based extraction agents.
-
-Deployed in production at a legal technology firm processing over 500,000 documents per month for contract review, due diligence automation, and regulatory compliance workflows.
+Comprehensive accessibility audit for a global Shopify brand serving over 500,000 customers. Covered keyboard operability, ARIA semantics, screen reader flow, and visual contrast across the entire storefront.
 
 <div align="center">
 
 | Attribute | Detail |
 |-----------|--------|
-| **Stack** | Python · FastAPI · LayoutLMv3 · Tesseract · GPT-4 Vision · Celery · S3 · PostgreSQL |
-| **Scale** | 500K+ documents/month · 12 supported file formats · < 4s median extraction time |
-| **Performance** | 94.7% field extraction accuracy · < 4s P50 processing latency for 10-page docs |
-| **Security** | GDPR compliant · document-level access controls · encrypted transit and storage |
-| **Impact** | 80% reduction in manual document review time · $2.1M annual cost avoidance |
-| **Repository** | [github.com/sherkhan/palimpsest](https://github.com/sherkhan/palimpsest) |
+| **Stack** | Shopify Liquid · WAVE · PowerMapper · macOS VoiceOver |
+| **Scale** | 500,000+ customer base · full storefront audit |
+| **Performance** | Audit-only engagement — no theme performance impact |
+| **Accessibility** | Keyboard operability, ARIA semantics, screen reader flow, color contrast |
+| **Impact** | Compliance audit delivered for a high-traffic global e-commerce brand |
+| **Repository** | [sculpd.com](https://sculpd.com) |
 
 </div>
 
-**Engineering Highlights:** Fine-tuned LayoutLMv3 on a proprietary dataset of 120,000 annotated legal documents, achieving a 12-point F1 improvement over the base model. Designed an async document processing pipeline using Celery with priority queuing, retry backoff, and SLA-aware scheduling. Built a self-healing OCR pre-processing stage that auto-rotates, deskews, and denoises scanned inputs before inference.
+<br/>
+</details>
+
+<details>
+<summary><strong>◉ Dandy Worldwide — WCAG 2.2 AA Accessibility Remediation</strong></summary>
+
+<br/>
+
+Full accessibility remediation for a California-based Shopify apparel brand with over 100,000 Instagram followers. Fixed focus management, landmark structure, and color contrast ratios site-wide.
+
+<div align="center">
+
+| Attribute | Detail |
+|-----------|--------|
+| **Stack** | Shopify Liquid · WAVE · PowerMapper |
+| **Scale** | Site-wide remediation across a high-engagement apparel storefront |
+| **Performance** | No regressions introduced during fix implementation |
+| **Accessibility** | Focus management, landmark structure, color contrast — WCAG 2.2 AA |
+| **Impact** | Improved usability for assistive technology users on a high-traffic brand |
+| **Repository** | [dandyworldwide.com](https://dandyworldwide.com) |
+
+</div>
+
+<br/>
+</details>
+
+<details>
+<summary><strong>◉ Surayya.pk — Shopify Dawn Theme Customization</strong></summary>
+
+<br/>
+
+Custom theme work for a Pakistani women's fashion brand built on the Shopify Dawn theme. Tailored typography, color palette, layout sections, and product display to deliver a refined, brand-aligned shopping experience.
+
+<div align="center">
+
+| Attribute | Detail |
+|-----------|--------|
+| **Stack** | Shopify Liquid (Dawn Theme) · CSS3 · JSON Templates |
+| **Scale** | Full storefront theme customization for a live fashion retailer |
+| **Performance** | Optimized layout sections for mobile-first shopping experience |
+| **Accessibility** | Maintained Dawn's baseline accessibility while customizing visuals |
+| **Impact** | Delivered a refined, brand-true shopping experience for the client |
+| **Repository** | [surayya.pk](https://surayya.pk) |
+
+</div>
 
 <br/>
 </details>
@@ -237,59 +277,55 @@ Deployed in production at a legal technology firm processing over 500,000 docume
 
 <br/>
 
-**Staff Software Engineer — AI Platform** &nbsp;·&nbsp; `Contour Labs` &nbsp;·&nbsp; *Jan 2023 – Present*
+**Shopify Developer & Manager** &nbsp;·&nbsp; `Nurel.pk` &nbsp;·&nbsp; *Sep 2025 – Present · Onsite*
 
-Led the architecture and delivery of Contour's AI platform layer, serving internal product teams and external enterprise clients. Defined the technical roadmap for LLM integration, data infrastructure modernization, and developer tooling across a 40-person engineering organization.
+Develop and customize Shopify themes using Liquid, translating client requirements into brand-aligned, high-performance storefronts optimized for speed and conversions.
 
-- Designed and shipped a multi-tenant LLM orchestration platform supporting 12 concurrent AI products, reducing model integration time from 6 weeks to 3 days per team
-- Built a RAG-based knowledge management system indexed over 2M internal documents, achieving 87% retrieval relevance on benchmark evaluation sets
-- Established MLOps practices including experiment tracking, model registry, staged rollout, and automated regression testing across the entire ML lifecycle
-- Reduced cloud infrastructure spend by $340K annually through workload right-sizing, spot instance scheduling, and Kubernetes resource optimization
-- Mentored 8 mid-level engineers, of whom 3 were promoted to senior within 18 months
+- Independently manage 5+ concurrent client stores end-to-end, serving as single point of contact from onboarding and development through SEO, app integrations, and post-launch support
+- Implement on-page SEO site-wide (meta, heading, schema, alt text) across all client storefronts
+- Configure DNS, hosting, and Cloudflare setup, ensuring secure, fast delivery across all client domains
 
 <p>
-  <img src="https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-6D28D9?style=flat-square&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-A855F7?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-7C3AED?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-6D28D9?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-A855F7?style=flat-square&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shopify%20Liquid-7C3AED?style=flat-square&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/On--Page%20SEO-6D28D9?style=flat-square&logo=googlesearchconsole&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-A855F7?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/App%20Integrations-7C3AED?style=flat-square&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Client%20Management-6D28D9?style=flat-square&logo=trello&logoColor=white" />
 </p>
 
 ---
 
-**Senior Software Engineer — Backend & Infrastructure** &nbsp;·&nbsp; `Meridian Technologies` &nbsp;·&nbsp; *Mar 2021 – Dec 2022*
+**Shopify Associate Developer** &nbsp;·&nbsp; `EcomBack Official` &nbsp;·&nbsp; *Oct 2024 – Jul 2025 · Onsite*
 
-Joined as the founding infrastructure engineer and built the company's entire backend platform from a monolithic Django application to a distributed microservices architecture capable of supporting 10x user growth.
+Specialized in WCAG 2.2 AA accessibility auditing and remediation across multiple international Shopify storefronts, alongside Liquid theme customization for SEO and mobile performance.
 
-- Decomposed a 180K-line Django monolith into 14 domain-bounded microservices using event-driven architecture with Kafka as the messaging backbone
-- Designed a multi-region active-passive PostgreSQL setup with automated failover, reducing RTO from 45 minutes to under 90 seconds
-- Led the company's SOC 2 Type II certification effort, implementing 47 security controls across infrastructure, access management, and incident response
-- Built a real-time analytics pipeline processing 80M events/day using Apache Flink, feeding product dashboards with < 10s data freshness
+- Corrected 50+ semantic markup errors across 10+ Shopify storefronts during screen reader testing (macOS VoiceOver), reducing client support inquiries by 20%
+- Conducted WCAG 2.2 AA audits using PowerMapper, WAVE, and Lighthouse; resolved keyboard navigation, ARIA labels, focus management, and color contrast issues site-wide
+- Resolved DOM manipulation conflicts and customized Shopify Liquid themes for SEO performance and mobile responsiveness, collaborating via Git in a team environment
+- Managed end-to-end client communication, gathering requirements, delivering progress updates, and providing post-launch support
 
 <p>
-  <img src="https://img.shields.io/badge/Go-7C3AED?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-6D28D9?style=flat-square&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-A855F7?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7C3AED?style=flat-square&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-6D28D9?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/WCAG%202.2%20AA-7C3AED?style=flat-square&logo=accessibility&logoColor=white" />
+  <img src="https://img.shields.io/badge/WAVE-6D28D9?style=flat-square&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerMapper-A855F7?style=flat-square&logo=testinglibrary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lighthouse-7C3AED?style=flat-square&logo=lighthouse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-6D28D9?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ---
 
-**Software Engineer — Full Stack** &nbsp;·&nbsp; `Axiom Digital` &nbsp;·&nbsp; *Jun 2019 – Feb 2021*
+**WordPress Developer** &nbsp;·&nbsp; `Rankviz` &nbsp;·&nbsp; *Jun 2023 – Mar 2024 · Onsite*
 
-Delivered full-stack features across a portfolio of SaaS products serving SMB clients in the logistics and supply chain domain. Owned engineering for three client-facing products end-to-end.
+Developed and customized responsive WordPress websites using Elementor with WooCommerce integrations, delivering complete e-commerce functionality for clients.
 
-- Rebuilt the company's flagship shipment tracking dashboard in React with real-time WebSocket updates, reducing customer support contacts by 24%
-- Engineered a route optimization service using Google OR-Tools, cutting average delivery costs by 18% for clients
-- Introduced automated test coverage from 12% to 78% across three codebases, eliminating a class of recurring production regressions
+- Executed comprehensive revisions to meta titles and descriptions across 50 product pages
+- Achieved top-three ranking on Google's SERP for 8 primary target keywords within 3 months
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-7C3AED?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-6D28D9?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-A855F7?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-7C3AED?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-7C3AED?style=flat-square&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elementor-6D28D9?style=flat-square&logo=elementor&logoColor=white" />
+  <img src="https://img.shields.io/badge/WooCommerce-A855F7?style=flat-square&logo=woocommerce&logoColor=white" />
+  <img src="https://img.shields.io/badge/SEO-7C3AED?style=flat-square&logo=googlesearchconsole&logoColor=white" />
 </p>
 
 ---
@@ -300,14 +336,12 @@ Delivered full-stack features across a portfolio of SaaS products serving SMB cl
 
 | Recognition | Details |
 |-------------|---------|
-| 🏆 **GitHub Arctic Code Vault Contributor** | Source code preserved in the Arctic Code Vault for 1,000 years — 2023 |
-| 🥇 **Google DevFest Lahore — 1st Place** | Won the national AI application challenge with an LLM-powered accessibility tool |
-| 🌟 **Open Source Impact Award** | Stratum gateway recognized by the CNCF Landscape for community contribution |
-| 📄 **Conference Speaker — PyCon Pakistan 2023** | Delivered keynote on production RAG architectures to 900+ attendees |
-| 🎯 **HackerEarth Sprint Champion** | Ranked #1 globally in a 48-hour distributed systems engineering challenge |
-| 📰 **Published Research** | Co-authored paper on efficient LLM fine-tuning accepted at NeurIPS 2023 Workshop |
-| 🏅 **AWS Community Builder** | Recognized by Amazon for technical contributions to the cloud developer community |
-| 💡 **Patent Pending** | Inventors: Sher Khan et al. — Adaptive semantic routing in multi-LLM orchestration systems |
+| 🏆 **25+ Storefronts Managed End-to-End** | Independently owned full lifecycle from onboarding to post-launch support |
+| 🌟 **50+ Semantic Markup Errors Corrected** | Across 10+ international storefronts via VoiceOver screen reader testing |
+| 📉 **20% Reduction in Client Support Inquiries** | Direct result of accessibility remediation and markup correction work |
+| ♿ **Accessibility Audits for Global Brands** | Including a Shopify store serving 500,000+ customers (Sculpd) |
+| 📈 **Top-3 Google SERP Rankings** | Achieved for 8 primary target keywords within 3 months at Rankviz |
+| 🎯 **Facebook Blueprint Certified** | Recognized by Meta for paid social advertising competency |
 
 </div>
 
@@ -317,61 +351,22 @@ Delivered full-stack features across a portfolio of SaaS products serving SMB cl
 
 <br/>
 
-**Amazon Web Services**
+**Meta**
 
 <p>
-  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20%E2%80%94%20Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/AWS%20Machine%20Learning%20Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/AWS%20DevOps%20Engineer%20%E2%80%94%20Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facebook%20Blueprint%20Certified%20%E2%80%94%20Facebook%20Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white" />
 </p>
 
-**Oracle**
+**LMS Ehunar**
 
 <p>
-  <img src="https://img.shields.io/badge/Oracle%20Certified%20Java%20SE%2017%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20Architect-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shopify%20E--Commerce%20Course%20%E2%80%94%20Completed-95BF47?style=for-the-badge&logo=shopify&logoColor=white" />
 </p>
 
-**NPTEL (IIT)**
+**LMS PFTP**
 
 <p>
-  <img src="https://img.shields.io/badge/Deep%20Learning%20%E2%80%94%20Elite%20%2B%20Gold%20Certificate-003366?style=for-the-badge&logo=bookstack&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms%20%E2%80%94%20Elite-003366?style=for-the-badge&logo=bookstack&logoColor=white" />
-</p>
-
-**Cisco**
-
-<p>
-  <img src="https://img.shields.io/badge/Cisco%20CCNA%20%E2%80%94%20Routing%20%26%20Switching-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Cisco%20CyberOps%20Associate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
-
----
-
-## ◈ Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/sherkhan" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Knight%20%7C%201900%2B%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  &nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/sherkhan" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-5%20Star%20%7C%20600%2B%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.hackerrank.com/sherkhan" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-6%20Star%20Gold%20%7C%20Problem%20Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-  </a>
-  &nbsp;
-  <a href="https://www.codechef.com/users/sherkhan" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5%20Star%20%7C%20Div%201%20%7C%201900%2B-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/SEO%20Course%20%E2%80%94%20Completed-4285F4?style=for-the-badge&logo=googlesearchconsole&logoColor=white" />
 </p>
 
 ---
@@ -379,13 +374,13 @@ Delivered full-stack features across a portfolio of SaaS products serving SMB cl
 ## ◈ GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sherkhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sherakram&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9&count_private=true&include_all_commits=true" width="48%" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sherkhan&theme=tokyonight&hide_border=true&background=0D0D0D&ring=A855F7&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=A855F7&sideNums=7C3AED&dates=6D28D9" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sherakram&theme=tokyonight&hide_border=true&background=0D0D0D&ring=A855F7&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=A855F7&sideNums=7C3AED&dates=6D28D9" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherkhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=C4B5FD&langs_count=10" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherakram&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=C4B5FD&langs_count=10" width="50%" />
 </p>
 
 ---
@@ -393,7 +388,7 @@ Delivered full-stack features across a portfolio of SaaS products serving SMB cl
 ## ◈ GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sherkhan&theme=onestar&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&rank=SSS,SS,S,AAA,AA,A,B" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sherakram&theme=onestar&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&rank=SSS,SS,S,AAA,AA,A,B" />
 </p>
 
 ---
@@ -401,7 +396,7 @@ Delivered full-stack features across a portfolio of SaaS products serving SMB cl
 ## ◈ Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sherkhan&theme=tokyo-night&hide_border=true&bg_color=0D0D0D&color=A855F7&line=7C3AED&point=C4B5FD&area=true&area_color=6D28D9" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sherakram&theme=tokyo-night&hide_border=true&bg_color=0D0D0D&color=A855F7&line=7C3AED&point=C4B5FD&area=true&area_color=6D28D9" width="95%" />
 </p>
 
 ---
@@ -409,7 +404,7 @@ Delivered full-stack features across a portfolio of SaaS products serving SMB cl
 ## ◈ Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sherkhan/sherkhan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/sherakram/sherakram/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -419,25 +414,25 @@ Delivered full-stack features across a portfolio of SaaS products serving SMB cl
 ```yaml
 current_focus:
   learning:
-    - "Speculative decoding & KV-cache optimization for low-latency LLM inference"
-    - "Formal verification methods for distributed consensus protocols"
-    - "Rust-based WASM runtimes for edge AI inference"
+    - "Advanced Liquid patterns for performance-optimized Online Store 2.0 themes"
+    - "JavaScript-driven progressive enhancement without framework overhead"
+    - "Automated accessibility regression testing in CI workflows"
 
   building:
-    - "Open-source agentic workflow engine with structured tool-calling and memory"
-    - "Self-hosted embedding & reranking inference server optimized for RAG"
-    - "CLI toolkit for reproducible ML experiment management"
+    - "A reusable accessible-section library for Shopify Online Store 2.0 themes"
+    - "Personal portfolio case studies documenting WCAG 2.2 AA remediation work"
+    - "AI-assisted QA workflow for faster Liquid debugging and theme review"
 
   exploring:
-    - "Test-time compute scaling and chain-of-thought reasoning in frontier models"
-    - "CRDT-based collaborative data structures for offline-first applications"
-    - "eBPF-based network observability for zero-overhead production tracing"
+    - "Headless Shopify storefronts using the Storefront API"
+    - "Core Web Vitals optimization specific to Shopify theme architecture"
+    - "Conversion rate optimization patterns for product and collection pages"
 
   open_to:
-    - "Staff / Principal Engineer · AI Platform or Infrastructure"
-    - "Technical Co-Founder · Pre-seed AI-native product"
-    - "Advisory · Early-stage developer tooling or AI infrastructure startups"
-    - "Open-source collaboration · AI tooling, MLOps, distributed systems"
+    - "Shopify Front-End Developer roles — remote or onsite"
+    - "WCAG 2.2 AA accessibility audit & remediation contracts"
+    - "E-commerce store management and technical ownership positions"
+    - "Freelance Liquid theme customization and Online Store 2.0 development"
 ```
 
 ---
@@ -445,27 +440,27 @@ current_focus:
 ## ◈ Connect
 
 <p align="center">
-  <a href="mailto:sher@sherkhan.dev">
-    <img src="https://img.shields.io/badge/Gmail-sher@sherkhan.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:sherazrajput68@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-sherazrajput68@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/sherkhan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sher%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/sherazakram" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sheraz%20Akram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/sherkhan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-@sherkhan-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/sherakram" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@sherakram-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://sherkhan.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-sherkhan.dev-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://sherakram.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-sherakram.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <em>Architecture is the art of how to waste space — engineering is the discipline of how not to.</em>
+  <em>Accessibility is not a feature you add — it's a standard you build to from the first line of Liquid.</em>
 </p>
 
 <p align="center">
