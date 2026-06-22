@@ -254,9 +254,9 @@ Custom theme work for a Pakistani women's fashion brand built on the Shopify Daw
 
 Develop and customize Shopify themes using Liquid, translating client requirements into brand-aligned, high-performance storefronts optimized for speed and conversions.
 
-- Independently manage 5+ concurrent client stores end-to-end, serving as single point of contact from onboarding and development through SEO, app integrations, and post-launch support
-- Implement on-page SEO site-wide (meta, heading, schema, alt text) across all client storefronts
-- Configure DNS, hosting, and Cloudflare setup, ensuring secure, fast delivery across all client domains
+- Build and customize Shopify themes for client stores using Liquid, turning their requirements into working, mobile-friendly storefronts.  
+- Kept client stores fast and reliable, as measured by secure, high-performance delivery across all client domains, by configuring DNS, hosting, and Cloudflare, and applying Shopify performance best practices site-wide.
+- Enabled checkout and fulfillment for new store builds, as measured by successful integration of payment gateways and apps, by configuring and testing third-party integrations during the build process.  
 
 <p>
   <img src="https://img.shields.io/badge/Shopify%20Liquid-7C3AED?style=flat-square&logo=shopify&logoColor=white" />
