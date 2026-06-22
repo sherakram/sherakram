@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/📍%20Lahore%2C%20Pakistan-282828?style=flat-square&logo=googlemaps&logoColor=A855F7" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Remote%20Opportunities-4C1D95?style=flat-square&logo=globe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to%20Onsite%20or%20Remote%20Opportunities-4C1D95?style=flat-square&logo=globe&logoColor=white" />
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherakram&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=C4B5FD&langs_count=6" width="260" />
 
-I am a Shopify Developer and Store Manager with **1.5+ years** of experience building, customizing, and independently managing **25+ client storefronts** end-to-end — from custom Liquid theme development to client communication and post-launch support.
+I am a Shopify Developer with **1.5+ years** of experience building, customizing, and managing **client storefronts** end-to-end — from custom Liquid theme development to client communication and post-launch support.
 
 My core specialization sits at the intersection of **Online Store 2.0 theme architecture**, **WCAG 2.2 AA accessibility remediation**, and **on-page SEO** — a combination that most front-end developers in the Shopify ecosystem overlook entirely. I have personally corrected **50+ semantic markup errors** across **10+ international storefronts**, reducing client support inquiries by **20%**, and conducted full accessibility audits for global brands serving hundreds of thousands of customers.
 
@@ -59,7 +59,7 @@ I work end-to-end: translating client requirements into brand-aligned, high-perf
 <br/>
 
 **Currently Open To:**
-- Shopify Front-End Developer / Theme Developer roles (remote or onsite)
+- Shopify Front-End Developer / Theme Developer roles (onsite or remote)
 - Shopify Accessibility (WCAG 2.2 AA) Audit & Remediation engagements
 - E-Commerce Store Management & Technical Ownership positions
 - Freelance Liquid theme customization and Online Store 2.0 section development
@@ -130,33 +130,6 @@ I work end-to-end: translating client requirements into brand-aligned, high-perf
 ## ◈ Featured Projects
 
 <details>
-<summary><strong>◉ Custom Theme Section Development — Portfolio Project</strong></summary>
-
-<br/>
-
-A production-grade demonstration of Online Store 2.0 section development that goes beyond template customization. The centerpiece is a fully accessible slideshow banner built with native WAI-ARIA roles, full keyboard navigation support, per-device art-direction (independent desktop and mobile image sets), and merchant-facing customizer settings — giving store owners granular control without touching code.
-
-This project was built to showcase real section-and-block architecture: reusable, schema-driven, and accessible by default rather than retrofitted.
-
-<div align="center">
-
-| Attribute | Detail |
-|-----------|--------|
-| **Stack** | Shopify Liquid · JSON Templates · HTML5 · CSS3 · Vanilla JavaScript · WAI-ARIA |
-| **Scale** | Reusable section architecture across unlimited theme instances |
-| **Performance** | Lazy-loaded responsive images · zero layout shift on slide transitions |
-| **Accessibility** | Full keyboard navigation · ARIA live regions · focus-visible states |
-| **Impact** | Demonstrates merchant-facing customization without developer dependency |
-| **Repository** | [github.com/sherakram](https://github.com/sherakram) |
-
-</div>
-
-**Engineering Highlights:** Implemented art-directed `<picture>` sourcing so desktop and mobile banners can use entirely different crops, not just scaled versions. Built keyboard-accessible slide controls with `aria-live="polite"` announcements for screen reader users transitioning between slides. Exposed every visual and behavioral setting through the theme customizer schema, enabling non-technical merchants to fully reconfigure the section.
-
-<br/>
-</details>
-
-<details>
 <summary><strong>◉ Earth Harbor — WCAG 2.2 AA Audit & Remediation</strong></summary>
 
 <br/>
@@ -172,7 +145,7 @@ Full accessibility audit and remediation for an organic, US-based skincare Shopi
 | **Performance** | No regression to page load times during remediation |
 | **Accessibility** | Keyboard navigation, ARIA semantics, screen reader flow, color contrast — WCAG 2.2 AA |
 | **Impact** | Brought storefront into AA compliance, reducing legal and UX risk |
-| **Repository** | [earthharbor.com](https://earthharbor.com) |
+| **URL** | [earthharbor.com](https://earthharbor.com) |
 
 </div>
 
@@ -195,7 +168,7 @@ Accessibility audit for a US-based Shopify store specializing in hidden and book
 | **Performance** | Remediation delivered without disrupting existing theme performance |
 | **Accessibility** | Keyboard operability, screen reader compatibility, color contrast — WCAG 2.2 AA |
 | **Impact** | Eliminated navigation barriers for assistive technology users |
-| **Repository** | [murphydoor.com](https://murphydoor.com) |
+| **URL** | [murphydoor.com](https://murphydoor.com) |
 
 </div>
 
@@ -203,22 +176,22 @@ Accessibility audit for a US-based Shopify store specializing in hidden and book
 </details>
 
 <details>
-<summary><strong>◉ Sculpd — WCAG 2.2 AA Accessibility Audit</strong></summary>
+<summary><strong>◉ Sculpd — Premium Theme Build & WCAG 2.2 AA Remediation</strong></summary>
 
 <br/>
 
-Comprehensive accessibility audit for a global Shopify brand serving over 500,000 customers. Covered keyboard operability, ARIA semantics, screen reader flow, and visual contrast across the entire storefront.
+Built a premium Shopify theme from scratch for this global brand with 500,000+ customers, including custom feature development, then performed a full WCAG 2.2 AA audit and remediation covering keyboard operability, ARIA semantics, and visual contrast.
 
 <div align="center">
 
 | Attribute | Detail |
 |-----------|--------|
-| **Stack** | Shopify Liquid · WAVE · PowerMapper · macOS VoiceOver |
+| **Stack** | Theme Customization · Shopify Liquid · WAVE · PowerMapper · macOS VoiceOver |
 | **Scale** | 500,000+ customer base · full storefront audit |
 | **Performance** | Audit-only engagement — no theme performance impact |
 | **Accessibility** | Keyboard operability, ARIA semantics, screen reader flow, color contrast |
 | **Impact** | Compliance audit delivered for a high-traffic global e-commerce brand |
-| **Repository** | [sculpd.com](https://sculpd.com) |
+| **URL** | [sculpd.com](https://sculpd.com) |
 
 </div>
 
@@ -226,22 +199,22 @@ Comprehensive accessibility audit for a global Shopify brand serving over 500,00
 </details>
 
 <details>
-<summary><strong>◉ Dandy Worldwide — WCAG 2.2 AA Accessibility Remediation</strong></summary>
+<summary><strong>◉ Dandy Worldwide —  Premium Theme Build & Accessibility Remediation</strong></summary>
 
 <br/>
 
-Full accessibility remediation for a California-based Shopify apparel brand with over 100,000 Instagram followers. Fixed focus management, landmark structure, and color contrast ratios site-wide.
+Built a premium Shopify theme from scratch for this CA-based apparel brand (100K+ Instagram followers), including custom feature development, then delivered full accessibility remediation site-wide. 
 
 <div align="center">
 
 | Attribute | Detail |
 |-----------|--------|
-| **Stack** | Shopify Liquid · WAVE · PowerMapper |
+| **Stack** | Theme Customization · Shopify Liquid · WAVE · PowerMapper |
 | **Scale** | Site-wide remediation across a high-engagement apparel storefront |
 | **Performance** | No regressions introduced during fix implementation |
 | **Accessibility** | Focus management, landmark structure, color contrast — WCAG 2.2 AA |
 | **Impact** | Improved usability for assistive technology users on a high-traffic brand |
-| **Repository** | [dandyworldwide.com](https://dandyworldwide.com) |
+| **URL** | [dandyworldwide.com](https://dandyworldwide.com) |
 
 </div>
 
@@ -264,7 +237,7 @@ Custom theme work for a Pakistani women's fashion brand built on the Shopify Daw
 | **Performance** | Optimized layout sections for mobile-first shopping experience |
 | **Accessibility** | Maintained Dawn's baseline accessibility while customizing visuals |
 | **Impact** | Delivered a refined, brand-true shopping experience for the client |
-| **Repository** | [surayya.pk](https://surayya.pk) |
+| **URL** | [surayya.pk](https://surayya.pk) |
 
 </div>
 
@@ -277,7 +250,7 @@ Custom theme work for a Pakistani women's fashion brand built on the Shopify Daw
 
 <br/>
 
-**Shopify Developer & Manager** &nbsp;·&nbsp; `Nurel.pk` &nbsp;·&nbsp; *Sep 2025 – Present · Onsite*
+**Shopify Developer & Manager** &nbsp;·&nbsp; `Jagha Global` &nbsp;·&nbsp; *Sep 2025 – Present · Onsite*
 
 Develop and customize Shopify themes using Liquid, translating client requirements into brand-aligned, high-performance storefronts optimized for speed and conversions.
 
